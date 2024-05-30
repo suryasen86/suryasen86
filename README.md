@@ -1,6 +1,5 @@
 - 👋 Hi, I’m suryasen Vishwakarma 
 - 👀 I’m interested in backend programming
-- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on devops
 
 <!---
